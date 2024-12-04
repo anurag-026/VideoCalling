@@ -1,0 +1,22 @@
+{
+    "name": "p2p-video-call",
+    "version": "1.0.0",
+    "description": "A simple Node.js server for P2P video call signaling using Socket.IO",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "nodejs",
+      "socket.io",
+      "p2p",
+      "webrtc",
+      "signaling"
+    ],
+    "author": "Anurag Mishra",
+    "license": "MIT",
+    "dependencies": {
+      "socket.io": "^4.7.0"
+    }
+  }
+  
